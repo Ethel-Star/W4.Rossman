@@ -100,3 +100,5 @@ class CustomerBehaviorAnalyzer:
 
         plt.tight_layout()
         plt.show()
+
+
